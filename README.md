@@ -1,6 +1,6 @@
 # lorne_exception
 
-异常封装库,所以的lorne框架下的异常依赖库
+异常封装库,所有的lorne框架下的异常依赖库
 
 
 
