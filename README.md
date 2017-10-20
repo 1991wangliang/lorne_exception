@@ -9,7 +9,7 @@
 <dependency>
   <groupId>com.github.1991wangliang</groupId>
   <artifactId>lorne_exception</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0.RELEASE</version>
 </dependency>
 
 ```
